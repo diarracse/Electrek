@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 701.47 356.94">
+  <defs>
+    <style>
+      .grid-1 {
+        fill: none;
+        stroke: #c6c6c6;
+        stroke-linejoin: round;
+        stroke-width: .75px;
+      }
+
+      .grid-2, .grid-3, .grid-4 {
+        font-family: Kodchasan-Regular, Kodchasan;
+        font-size: 24px;
+      }
+
+      .grid-5 {
+        fill: #1d1d1b;
+      }
+
+      .grid-3 {
+        letter-spacing: -.04em;
+      }
+
+      .grid-4 {
+        letter-spacing: -.04em;
+      }
+    </style>
+  </defs>
+  <g id="grilles">
+    <g>
+      <rect class="grid-1" x="91.56" y="2.25" width="609.53" height="309.55"/>
+      <line class="grid-1" x1="91.56" y1="260.58" x2="701.09" y2="260.58"/>
+      <line class="grid-1" x1="91.56" y1="208.36" x2="701.09" y2="208.36"/>
+      <line class="grid-1" x1="91.56" y1="155.92" x2="701.09" y2="155.92"/>
+      <line class="grid-1" x1="91.56" y1="103.69" x2="701.09" y2="103.69"/>
+      <line class="grid-1" x1="91.56" y1="51.47" x2="701.09" y2="51.47"/>
+      <line class="grid-1" x1="614.02" y1="2.25" x2="614.02" y2="311.8"/>
+      <line class="grid-1" x1="526.94" y1="2.25" x2="526.94" y2="311.8"/>
+      <line class="grid-1" x1="439.87" y1="2.25" x2="439.87" y2="311.8"/>
+      <line class="grid-1" x1="352.79" y1="2.25" x2="352.79" y2="311.8"/>
+      <line class="grid-1" x1="265.71" y1="2.25" x2="265.71" y2="311.8"/>
+      <line class="grid-1" x1="178.64" y1="2.25" x2="178.64" y2="311.8"/>
+    </g>
+  </g>
+  <g id="bulle24">
+    <circle class="grid-5" cx="615.03" cy="10.27" r="8.68"/>
+  </g>
+  <g id="bulle23">
+    <circle class="grid-5" cx="439.1" cy="103.53" r="8.68"/>
+  </g>
+  <g id="bulle22">
+    <circle class="grid-5" cx="265.24" cy="163.19" r="8.68"/>
+  </g>
+  <g id="_x35_7_122">
+    <text class="grid-2" transform="translate(5.33 20.4)"><tspan x="0" y="0">57 122</tspan></text>
+  </g>
+  <g id="_x34_0_823">
+    <text class="grid-4" transform="translate(0 111.14)"><tspan x="0" y="0">40 823</tspan></text>
+  </g>
+  <g id="_x32_8_646">
+    <text class="grid-3" transform="translate(.02 184.38)"><tspan x="0" y="0">28 646</tspan></text>
+  </g>
+  <g id="_x32_024">
+    <text class="grid-3" transform="translate(584.36 344.33)"><tspan x="0" y="0">2024</tspan></text>
+  </g>
+  <g id="_x32_023">
+    <text class="grid-3" transform="translate(407.29 344.17)"><tspan x="0" y="0">2023</tspan></text>
+  </g>
+  <g id="_x32_022">
+    <text class="grid-3" transform="translate(233.63 344.7)"><tspan x="0" y="0">2022</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,90 @@
+/* General reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'proxima-nova', Arial, sans-serif;
+}
+
+.navbar {
+    background-color: white;
+    display: flex;
+    justify-content: left;
+    padding: 1rem 2rem;
+    display: flex;
+    height: 4rem;
+}
+
+.logo-image {
+    height: 30px;
+    /* Adjust the height of the logo */
+    width: auto;
+    /* Keeps the aspect ratio of the image */
+}
+
+/* Styling for navbar menu */
+.navbar-menu {
+    list-style-type: none;
+    /* Remove bullet points */
+    display: flex;
+    /* Align items horizontally */
+    padding: 1rem 2rem;
+    margin: 0;
+    background-color: #0D81A6;
+}
+
+.navbar-menu li {
+    margin-right: 20px;
+    /* Add space between items */
+}
+
+.navbar-menu a {
+    text-decoration: none;
+    /* Remove underline from links */
+    color: white;
+    /* Set the text color to white */
+    font-size: 14px;
+    /* Adjust font size */
+    font-weight: 500;
+}
+
+.article {
+    margin: 8rem 35rem 0 7rem;
+}
+
+.article h1 {
+    font-size: 38px;
+    margin-bottom: 2rem;
+}
+
+.article p {
+    font-size: 16px;
+    margin-bottom: 1rem;
+    line-height: 1.6;
+}
+
+button {
+    background-color: #0D81A6;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 1rem 0;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #005f7f;
+}
+
+#bullesContainer,
+#barresContainer {
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5rem;
+}
+
+
+
